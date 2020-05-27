@@ -1,9 +1,9 @@
 {
 	"files": {
 		"README.md": "316aa12aaf8aae78c3ff92ab4c97c75c1fa07872be1eed3e47b7853622317913",
-		"index.js": "927d90b15411759a56e4a177ae725ea39fa8a632aadec18176782d3abd46a4b0"
+		"index.js": "5c1eb334f8e3f2839c2fb266098a544fc71c8484779a034c38c5788200d7d467"
 	},
 	"defs": {
-		"S_DIALOG": 2
+		"S_DIALOG": 3
 	}
 }
