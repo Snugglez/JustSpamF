@@ -1,10 +1,10 @@
 {
 	"disableAutoUpdate": false,
-    "options": {"niceName": "JustSpamF", "guiName": "JustSpamF"},
+    "options": {"niceName": "JustSpamF", "guiName": "JustSpamF", "settingsVersion": 3, "settingsFile": "config.json", "settingsMigrator": "config_generator.js"},
     "name": "JustSpamF",
     "author": "Snug",
-    "description": "Changes npc interactions to a form that let you hit F to progress including teleportals",
-    "version": "1.3",
+    "description": "Changes npc interactions to a form that let you hit F to progress including teleportals(/8 jsf to toggle on/off)",
+    "version": "1.4",
 	"servers": ["https://raw.githubusercontent.com/Snugglez/JustSpamF/master/"],
 	"supportUrl": "https://github.com/Snugglez/JustSpamF/blob/master/README.md"
 }

@@ -1,7 +1,7 @@
 {
 	"files": {
-		"README.md": "316aa12aaf8aae78c3ff92ab4c97c75c1fa07872be1eed3e47b7853622317913",
-		"index.js": "321214429e78f7cdcf6979bdb82731d838ff8b8296bdb5e08d7d83b5dfd38bfb"
+		"config_generator.js": "fd4ec54089ed0a66a8d85784d5d0f61fbe93e5b72ac33f765b86a432b98889b4",
+		"index.js": "837248006a45ead07a2e0cc5459edd8de406466df5defdf6eeb0ca673b210c8c"
 	},
 	"defs": {
 		"S_DIALOG": 3
