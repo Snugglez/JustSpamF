@@ -1,6 +1,6 @@
 {
 	"disableAutoUpdate": false,
-    "options": {"niceName": "JustSpamF", "guiName": "JustSpamF", "settingsVersion": 3, "settingsFile": "config.json", "settingsMigrator": "config_generator.js"},
+    "options": {"niceName": "JustSpamF", "guiName": "JustSpamF", "settingsVersion": 4, "settingsFile": "config.json", "settingsMigrator": "config_generator.js"},
     "name": "JustSpamF",
     "author": "Snug",
 	"donationUrl": "https://play.google.com/store/apps/details?id=com.CarvedGames.SD",

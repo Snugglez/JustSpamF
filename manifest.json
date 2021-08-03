@@ -1,10 +1,10 @@
 {
 	"files": {
 		"config_generator.js": "fd4ec54089ed0a66a8d85784d5d0f61fbe93e5b72ac33f765b86a432b98889b4",
-		"index.js": "837248006a45ead07a2e0cc5459edd8de406466df5defdf6eeb0ca673b210c8c",
-		"module.json": "1e3452ab286f1520ad37c68b84d6bf24ecd01f86f0808fdd4a088cdd7121acb6"
+		"index.js": "f32d823008b31a036613fc38695086554758dbbd2006de67ebb7c545cf5604a1",
+		"module.json": "719b5e0c0f09eb702bfe77cf470208d0ecd4e0d65942debdd847988b3673a875"
 	},
 	"defs": {
-		"S_DIALOG": 3
+		"S_DIALOG": [3,4]
 	}
 }
