@@ -1,10 +1,8 @@
 {
-	"files": {
-		"config_generator.js": "fd4ec54089ed0a66a8d85784d5d0f61fbe93e5b72ac33f765b86a432b98889b4",
-		"index.js": "f32d823008b31a036613fc38695086554758dbbd2006de67ebb7c545cf5604a1",
-		"module.json": "719b5e0c0f09eb702bfe77cf470208d0ecd4e0d65942debdd847988b3673a875"
-	},
-	"defs": {
-		"S_DIALOG": [3,4]
-	}
+  "files": {
+    "README.md": "c188202dee9f587fdc405f021367b7bf7ea7469af9010610f943001c3fc8bd57",
+    "config_generator.js": "fd4ec54089ed0a66a8d85784d5d0f61fbe93e5b72ac33f765b86a432b98889b4",
+    "index.js": "ab7078e97183aee626341ad4ba9e6a492a965afbf6c09924feb6e747ad57a3bb",
+    "module.json": "95e8615c2083b3c70195eb3c7536c2d4e633caffe8fe57d79e246391896dd27b"
+  }
 }
