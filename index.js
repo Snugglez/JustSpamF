@@ -1,5 +1,6 @@
 module.exports = function justspamf(d) {
-  d.hook('S_DIALOG', 5, (e) => {
+  if(d.majorPatchVersion == 92) d.dispatch.addDefinition('S_DIALOG', 99, __dirname + '/S_DIALOG.def', true)
+  d.hook('S_DIALOG', '*', (e) => {
     if (!e.buttons.length || !d.settings.enabled) return
     for (let i = 0; i < e.buttons.length; i++) { if ([1, 2, 3, 4, 5, 51, 53, 54, 55, 56, 63].includes(e.buttons[i].type)) e.buttons[i].type = 43 }
     e.type = 1
